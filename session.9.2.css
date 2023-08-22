@@ -1,0 +1,17 @@
+#name{
+	background-image:url("nature.jpg");
+	background-repeat: no-repeat !important;
+	/*background-repeat:x;
+		background-repeat:y;*/
+	background-attachment: fixed !important;
+	/*background-attachment:scroll;*/
+	background-position: center !important;
+	/*background-position:50% 50%*/
+	background-size: cover !important;
+	/*background-size:cover
+		background-size:auto;
+		background-size:50%*/
+}
+#para{
+	border-bottom-style:inset;
+}
